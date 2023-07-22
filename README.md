@@ -3,4 +3,5 @@ Algorithm Visualizer in C++ demonstrates Bubble Sort with graphical visualizatio
 
 Exmaple :
 
-https://github.com/napul205/Sorting-Algorithms-Visualization/assets/100463532/0d9b8a99-47b8-459f-99db-74d723923bfd
+https://github.com/napul205/Sorting-Algorithms-Visualization/assets/100463532/1f93127a-836e-44d3-b183-752edd77744e
+
